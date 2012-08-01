@@ -1,0 +1,41 @@
+{
+  "name": "backbone-localStorage",
+  "version": "0.0.1",
+  "description": "A localStorage adapter for Backbone.js",
+  "keywords": ["backbone", "supermodel", "model", "associations"],
+  "author": "Pathable (https://github.com/pathable)",
+
+  "maintainers": [
+    {
+      "name": "Kevin Rockwood",
+      "email": "kevin@rockwood.me",
+      "web": "http://rockwood.me" 
+    }
+  ],
+  
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  
+  "repositories": [
+    {
+      "type": "git", 
+      "url": "http://github.com/rockwood/jam-backbone-supermodel.git"
+    }
+    {
+      "type": "git", 
+      "url": "https://github.com/pathable/supermodel.git"
+    }
+  ],
+  
+  "github": "http://github.com/rockwood/jam-backbone-supermodel.git",
+  
+  "main": "main.js",
+
+  "dependencies": {
+    "backbone": ">= 0.9.2",
+  }
+}

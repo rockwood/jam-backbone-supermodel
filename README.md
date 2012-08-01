@@ -10,4 +10,4 @@ Usage
       var user = User.create(); 
     })
 
-Please see [pathable.github.com/supermodel](pathable.github.com/supermodel) for documentation. 
+Please see [pathable.github.com/supermodel](http://pathable.github.com/supermodel) for documentation. 

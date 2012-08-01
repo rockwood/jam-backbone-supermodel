@@ -9,9 +9,9 @@
         define(['backbone'], factory);
     } else {
         // Browser globals
-        root.returnExports = factory(root.b);
+        root.returnExports = factory(root.Backbone);
     }
-}(this, function (backbone) {
+}(this, function (Backbone) {
 
   // The global object.
   var root = this;
@@ -529,4 +529,6 @@
     }
 
   });
+
+  return Supermodel
 }));

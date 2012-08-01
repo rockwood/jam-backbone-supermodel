@@ -24,7 +24,7 @@
     {
       "type": "git", 
       "url": "http://github.com/rockwood/jam-backbone-supermodel.git"
-    }
+    },
     {
       "type": "git", 
       "url": "https://github.com/pathable/supermodel.git"

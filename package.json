@@ -1,6 +1,6 @@
 {
   "name": "backbone-supermodel",
-  "version": "0.0.4",
+  "version": "0.0.4-1",
   "description": "Minimal model tracking for Backbone.",
   "keywords": ["backbone", "supermodel", "model", "associations"],
   "author": "Pathable (https://github.com/pathable)",
